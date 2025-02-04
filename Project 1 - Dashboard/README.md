@@ -1,8 +1,9 @@
-Excel Salary Dashboard
+**Excel Salary Dashboard**
 
-[1_Salary_Dashboard.png](https://github.com/sarthaktuli7/Excel-Projects/blob/main/Project%201%20-%20Dashboard/Images/1_Salary_Dashboard_Chart1.png)
+Project 1 - Dashboard/Images/1_Salary_Dashboard_Chart1.png
 
-Introduction
+**Introduction**
+
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
