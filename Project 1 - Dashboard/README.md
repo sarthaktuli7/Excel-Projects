@@ -1,34 +1,34 @@
-**Excel Salary Dashboard**
+# Excel Salary Dashboard 
 
 ![1_Salary_Dashboard_Chart1](https://github.com/user-attachments/assets/ed30a14e-33b6-4c9f-8c51-c08af0353fc1)
 
-**Introduction**
+## Introduction
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
 It contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
-**Dashboard File**
+## Dashboard File
 
 My final dashboard is in Project 1 - Dashboard [1_Salary_Dashboard.xlsx](https://github.com/sarthaktuli7/Excel-Projects/blob/main/Project%201%20-%20Dashboard/1_Salary_Dashboard.xlsx)
 
-**Excel Skills Used**
+## Excel Skills Used
 The following Excel skills were utilized for analysis:
 
 📉 Charts
 🧮 Formulas and Functions
 ❎ Data Validation
 
-Data Jobs Dataset
+## Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023.It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
 👨‍💼 Job titles
 💰 Salaries
 📍 Locations
 🛠️ Skills
 
-**Dashboard Build**
+## Dashboard Build
 
 📉 Charts
 📊 Data Science Job Salaries - Bar Chart
@@ -41,7 +41,7 @@ The dataset used for this project contains real-world data science job informati
 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-**🗺️ Country Median Salaries - Map Chart**
+## 🗺️ Country Median Salaries - Map Chart
 
 ![1_Salary_Dashboard_Chart2](https://github.com/user-attachments/assets/09644e0d-3b12-4164-817b-850aedef3757)
 
@@ -62,6 +62,7 @@ IF(
     jobs[salary_year_avg]
 )
 )
+
 🔍 Multi-Criteria Filtering: Checks job title, country, schedule type, and excludes blank salaries.
 📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.
 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
@@ -71,7 +72,7 @@ IF(
 ![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/ba24f94e-9607-4ad5-a6f3-3ae7d33b4a55)
 
 
-📉 Dashboard Implementation
+## 📉 Dashboard Implementation
 
 Salary Dashboard Title
 
@@ -84,7 +85,7 @@ Salary Dashboard Title
 ![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/1e755209-7bb1-455a-a9d3-2318ac5b0815)
 
 
-📉 Dashboard Implementation:
+## 📉 Dashboard Implementation:
 
 Salary Dashboard Type
 
@@ -95,7 +96,7 @@ Salary Dashboard Type
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
 
-Salary Dashboard Data Validation
+## Salary Dashboard Data Validation
 
-Conclusion
+## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles.It allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
